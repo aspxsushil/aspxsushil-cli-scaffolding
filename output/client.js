@@ -1,1 +1,0 @@
-// This is a dynamically named file client.js
